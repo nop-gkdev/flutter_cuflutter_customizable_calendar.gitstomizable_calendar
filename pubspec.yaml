@@ -4,7 +4,7 @@ version: 0.3.8
 homepage: https://github.com/Radency/flutter_customizable_calendar
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: ">=2.17.0 <4.0.0"
 
 dependencies:
   flutter:
